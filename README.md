@@ -2,9 +2,7 @@
 
 ## Dashboard
 
-<p align="center">
-  <img src="dashboard/full_dashboard.png" alt="Marketing Campaign Dashboard" width="100%"/>
-</p>
+<img width="3848" height="2946" alt="full_dashboard" src="https://github.com/user-attachments/assets/40953d5d-49c0-4a7a-b5c9-87760c74d7a6" />
 
 ---
 
